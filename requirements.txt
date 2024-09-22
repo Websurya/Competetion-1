@@ -1,0 +1,14 @@
+Font --->
+
+font; Source Sans Pro', sans-serif;
+
+
+Font Awesome Icons --->
+
+
+fas fa-heart fa-3x - heart 
+fas fa-users fa-2x  - about us 
+fas fa-map-pin fa-3x  - map pin
+fab fa-facebook -facebook logo
+fab fa-twitter - twitter logo
+fab fa-Instagram - Instagram logo 
